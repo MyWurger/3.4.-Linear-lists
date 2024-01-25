@@ -1,0 +1,3 @@
+﻿  Списки.cpp
+D:\Проекты Visual studio\Lists\Списки.cpp(208,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lists.vcxproj -> D:\Проекты Visual studio\Lists\x64\Debug\Lists.exe
